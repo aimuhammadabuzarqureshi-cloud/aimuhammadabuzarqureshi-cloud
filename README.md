@@ -153,6 +153,18 @@ timeline
 
 ---
 
+## 🐍 Live Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aimuhammadabuzarqureshi-cloud/aimuhammadabuzarqureshi-cloud/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aimuhammadabuzarqureshi-cloud/aimuhammadabuzarqureshi-cloud/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aimuhammadabuzarqureshi-cloud/aimuhammadabuzarqureshi-cloud/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+---
+
 ## 📊 Live GitHub Statistics & Trophies
 
 <div align="center">
